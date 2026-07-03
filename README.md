@@ -1,5 +1,10 @@
 # Module 2 – Activity 1 – Your Portfolio: Skeleton + Flexbox Layout
 
+[![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97757?logo=anthropic&logoColor=white)](https://tjakoen.github.io/notes/ten-times-zero)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 You've practiced semantic HTML on Curbside Thai. Now build **your own**
 single-page portfolio - the one you **wireframed in Week 1**. Keep your
 wireframe open beside you; it is your blueprint.
@@ -145,3 +150,6 @@ allowance. Three habits keep you from wasting it:
    gets its own Codespace, so old ones pile up and use your storage. After your
    final push: **github.com/codespaces → ••• → Delete.** You can always recreate
    it later from the green **Code** button.
+
+---
+📚 **These materials were authored by [tjakoen](https://github.com/tjakoen), built with Claude.** I use AI in the open, and I expect you to use it to learn the material, not to skip the learning. [How I actually work with AI →](https://tjakoen.github.io/notes/ten-times-zero)
